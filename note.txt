@@ -1,0 +1,126 @@
+#########
+# Step 19
+Code affected: all .java
+
+add break to train.run() and reformat code
+#########
+# Step 19
+Code affected: all .java
+
+change code smells.
+#########
+# Step 18
+Code affected: all .java
+
+change code smells.
+#########
+# Step 17
+Code affected: all .java
+
+change checkstyle warning including magic numbers.
+#########
+# Step 16
+Code affected: car .java
+
+fix car on switch rail car not oblique.
+#########
+# Step 15
+Code affected: all .java
+
+change code smells.
+#########
+# Step 14
+Code affected: track.java, trainSimulation.java
+
+Make my own rails.
+
+#########
+# Step 13
+Code affected: all .java files
+
+Change code styles.
+#########
+# Step 12
+Code affected: all .java files
+
+revert to fix bug.
+#########
+# Step 11
+Code affected: all .java files
+
+Change code styles.
+#########
+# Step 10
+Code affected: Car.java, AccidentException.java, Rail.java, Train.java
+
+Optimize the design, program will quit after crash and hold after run out
+of rail.
+#########
+# Step 9
+Code affected: Car.java, Rail.java, StraightRail.java, SwitchRail.java,
+                TrackPanel.java, Train.java, TrainSimulation.java
+
+change Deprecated Methods.
+
+#########
+# Step 8
+Code affected: Car.java, SwitchRail.java
+
+finish switch rail problems. Car will follow the rail after switch
+and will stop while switch rail is not runnable.
+Also change some CodeStyle.
+
+#########
+# Step 7
+Code affected: all .java files
+
+finish the javadoc creating for all classes.
+
+#########
+# Step 6
+Code affected: Car.java
+
+car will stop when it meets another car.
+
+#########
+# Step 5
+Code affected: Rail related .java files, Track.java
+
+Combine NS, EW rail to straight rail class,
+Combine SW, SE, NW, NE rail class to corner rail class,
+Combine EWN, EWS, NSE, NSW, SNE, SNW, WEN, WES rail class to switch rail class.
+Produce rail by Factory Pattern complete.
+
+#########
+# Step 4
+Code affected: RailFactory .java files
+
+Try using Factory Pattern produce rails.
+
+
+#########
+# Step 4
+Code affected: all .java files
+
+Make constructor package private if nothing outside package can use, make private if nothing ouside
+class can use.
+
+#########
+# Step 3
+Code affected: StraightRail.java
+
+Make constructor package private, nothing outside package can use StrightRail class.
+
+#########
+# Step 2
+
+Code affected: all .java files
+
+Reformatted using the Google Java style formatter.
+
+#########
+# Step 1
+
+Code affected: none
+
+Created this file.
